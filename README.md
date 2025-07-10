@@ -34,3 +34,36 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+## ios-clone-project - "아이폰 프로 15"
+
+강의를 기반으로 진행한 iOS 홈페이지 클론코딩 프로젝트
+Next.js와 React를 활용하여 실제 Apple 홈페이지와 유사한 UI/UX 구현, 인터랙션 효과 및 커머스 기능까지 학습
+
+- | Ch 01 | React.js + Next.js 환경 세팅 
+- | Ch 02 | Header / Footer 구성 
+- | Ch 03 | 아이폰 소개 Hero 파트 (자동 실행)
+- | Ch 04 | 인터랙티브 핵심 파트 구현 
+- | Ch 05 | 3D 모델링 파트
+- | Ch 06 | 애니메이션 응용
+- | Ch 07 | 추가 인터랙티브 효과 
+- | Ch 08 | 카카오페이 결제 연동 
+- | Ch 09 | SEO 적용 
+- | Ch 10 | 배포하기 (Vercel 등)
+
+## 기술 스택
+
+- Next.js (App Router)
+- React.js
+- Tailwind CSS
+- Framer Motion
+- GSAP
+- 카카오페이 API
+
+## 개인 학습 포인트
+
+- Next.js App Router 기반의 파일 구조 이해
+- 섹션별 인터랙션 구성 방식 학습
+- Framer Motion을 통한 부드러운 등장 효과 적용
+- 커머스 기능 및 실전 배포 경험
